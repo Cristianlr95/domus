@@ -2,8 +2,9 @@
 
 Proyecto full-stack separado en frontend y backend, organizado con la misma estructura base usada en `Hospital Familia`.
 
-Estado del alcance MVP: `100%`.
-Preparacion productiva conjunta estimada: `85%`.
+Estado del alcance funcional recuperado: `100%`.
+Las mejoras de infraestructura productiva que no pertenecen a esos módulos se
+mantienen separadas en el roadmap.
 
 ## Estructura
 
